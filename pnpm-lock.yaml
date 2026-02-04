@@ -2,11 +2,11 @@ lockfileVersion: 5.4
 
 specifiers:
   lodash: 1.0.0
-  minimist: 1.1.0
+  minimist: 1.2.3
 
 dependencies:
   lodash: 1.0.0
-  minimist: 1.1.0
+  minimist: 1.2.3
 
 packages:
 
@@ -15,6 +15,6 @@ packages:
     engines: {'0': node, '1': rhino}
     dev: false
 
-  /minimist/1.1.0:
-    resolution: {integrity: sha512-ozllOyYiayzEgHCQKMPXKkOn9QRdeVe0TrIxLp+SJXMA0XNCL+yf4OtyPkB2JthzzYePYOTRnipBi3oOOa82sw==}
+  /minimist/1.2.3:
+    resolution: {integrity: sha512-+bMdgqjMN/Z77a6NlY/I3U5LlRDbnmaAk6lDveAPKwSpcPM4tKAuYsvYF8xjhOPXhOYGe/73vVLVez5PW+jqhw==}
     dev: false
