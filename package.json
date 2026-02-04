@@ -4,7 +4,7 @@
   "description": "Test fixture for pnpm 7 support (lockfile v5.4)",
   "private": true,
   "dependencies": {
-    "lodash": "1.0.0",
-    "minimist": "1.1.0"
+    "lodash": "4.17.21",
+    "minimist": "1.2.3"
   }
 }
