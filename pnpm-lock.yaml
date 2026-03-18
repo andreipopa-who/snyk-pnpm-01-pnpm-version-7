@@ -1,20 +1,23 @@
 lockfileVersion: 5.4
 
 specifiers:
-  lodash: 1.0.0
-  minimist: 1.1.0
+  lodash: 4.17.5
+  minimist: 1.2.3
 
 dependencies:
-  lodash: 1.0.0
-  minimist: 1.1.0
+  lodash: registry.npmjs.org/lodash/4.17.5
+  minimist: registry.npmjs.org/minimist/1.2.3
 
 packages:
 
-  /lodash/1.0.0:
-    resolution: {integrity: sha512-WHDYO0qSDoEe4PJznK52IoMBj2szpaTUnG6iJarwjeW0LymFN46KNDoiOLOt4OS78e1e+A9jQrfbMNxue6l3GQ==}
-    engines: {'0': node, '1': rhino}
+  registry.npmjs.org/lodash/4.17.5:
+    resolution: {integrity: sha512-svL3uiZf1RwhH+cWrfZn3A4+U58wbP0tGVTLQPbjplZxZ8ROD9VLuNgsRniTlLe7OlSqR79RUehXgpBW/s0IQw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/lodash/-/lodash-4.17.5.tgz}
+    name: lodash
+    version: 4.17.5
     dev: false
 
-  /minimist/1.1.0:
-    resolution: {integrity: sha512-ozllOyYiayzEgHCQKMPXKkOn9QRdeVe0TrIxLp+SJXMA0XNCL+yf4OtyPkB2JthzzYePYOTRnipBi3oOOa82sw==}
+  registry.npmjs.org/minimist/1.2.3:
+    resolution: {integrity: sha512-+bMdgqjMN/Z77a6NlY/I3U5LlRDbnmaAk6lDveAPKwSpcPM4tKAuYsvYF8xjhOPXhOYGe/73vVLVez5PW+jqhw==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/minimist/-/minimist-1.2.3.tgz}
+    name: minimist
+    version: 1.2.3
     dev: false
